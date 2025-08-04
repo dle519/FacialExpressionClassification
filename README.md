@@ -2,6 +2,7 @@ Info-6147: FER2013 Facial Expression Classification
 
 Final PyTorch project for classifying facial expressions using the FER2013 dataset. This project trains a convolutional neural network (CNN) to recognize 7 facial emotions.
 
+# Unfortunately, I cannot upload the dataset.csv because the file is too large, even after compressing it. But I did download the csv through Kaggle.com.
 
 Dataset: FER2013
 
